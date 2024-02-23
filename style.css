@@ -61,3 +61,9 @@ div a{
 div a+a{
     margin-top: 16px;
 }
+
+div a:hover{
+    background-color: #C4F82A;
+    color: #141414;
+    transition: 0.6s;
+}
